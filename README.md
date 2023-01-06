@@ -58,3 +58,16 @@ Comparacion del circuito Original con el de Thevenin
 ![image](https://user-images.githubusercontent.com/116674536/211016959-ce8a137e-3595-4115-80b2-0cfcb1d63ef1.png)
 
 CALCULOS TEORICOS
+
+5. VIDEO
+
+
+6. CONCLUSIONES
+
+A lo largo del presente informe el teorema de Thévenin establece que un circuito lineal de dos terminales puede remplazarse por un circuito equivalente que consta de una fuente de tensión VTH en serie con un resistor RTH, donde VTH es la tensión de circuito abierto en las terminales y RTH es la entrada o resistencia equivalente en las terminales cuando las fuentes independientes se apagan
+
+7. BIBLIOGRAFIA
+
+Boylestad, R. L. (2004). Introducción al análisis de circuitos. Pearson Ed
+
+Rolle, J. L. C. (2004). Teoremas de Thevenin y Norton con OrCad. Revista española de electrónica, (601), 48-49.
