@@ -66,6 +66,9 @@ CALCULOS TEORICOS
 
 CALCULO DE ERROR
 
+![image](https://user-images.githubusercontent.com/116674536/211439775-565be703-5569-487d-b960-d2b5b745fa7c.png)
+
+![image](https://user-images.githubusercontent.com/116674536/211439800-bca10c3b-2fac-4124-8df2-c8d3503c40d0.png)
 
 
 Tabla 4.1. Valores del Circuito Equivalente de Thévenin
