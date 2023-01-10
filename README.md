@@ -59,6 +59,22 @@ Comparacion del circuito Original con el de Thevenin
 
 CALCULOS TEORICOS
 
+4. RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR
+
+CALCULO DE ERROR
+
+
+
+Tabla 4.1. Valores del Circuito Equivalente de Thévenin
+
+![image](https://user-images.githubusercontent.com/116674536/211432392-d079ad8a-a6d6-4a81-97a1-228d9c598362.png)
+
+
+Tabla 4.2. Comprobación del Teorema de Thévenin
+
+![image](https://user-images.githubusercontent.com/116674536/211432563-895e9ed9-73cf-49a2-a54c-6457753b5ccd.png)
+
+
 5. VIDEO
 
 
