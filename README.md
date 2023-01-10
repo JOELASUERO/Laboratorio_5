@@ -59,6 +59,15 @@ Comparacion del circuito Original con el de Thevenin
 
 CALCULOS TEORICOS
 
+![image](https://user-images.githubusercontent.com/116674536/211569780-d86e7ddf-e109-4522-baac-734334e2043f.png)
+
+![Trabajo grupal circuitos_page-0002](https://user-images.githubusercontent.com/116674536/211569849-e67bf68f-c5d6-42cb-a542-d2bb8d27d0ec.jpg)
+
+![Trabajo grupal circuitos_page-0003](https://user-images.githubusercontent.com/116674536/211569941-e01137c7-8159-4be4-a91c-4fffb96cb8dc.jpg)
+
+![Trabajo grupal circuitos_page-0004](https://user-images.githubusercontent.com/116674536/211570012-7b18c9b4-60be-4ee1-b713-8db5c6b834ed.jpg)
+
+
 ![image](https://user-images.githubusercontent.com/116674536/211433399-5ba992f8-11c6-40ea-b47c-b028c45b00d4.png)
 
 
