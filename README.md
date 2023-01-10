@@ -59,6 +59,9 @@ Comparacion del circuito Original con el de Thevenin
 
 CALCULOS TEORICOS
 
+![image](https://user-images.githubusercontent.com/116674536/211433399-5ba992f8-11c6-40ea-b47c-b028c45b00d4.png)
+
+
 4. RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR
 
 CALCULO DE ERROR
