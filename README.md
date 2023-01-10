@@ -92,6 +92,7 @@ Tabla 4.2. Comprobación del Teorema de Thévenin
 
 5. VIDEO
 
+https://www.youtube.com/watch?v=T4fn__X__OA
 
 6. CONCLUSIONES
 
